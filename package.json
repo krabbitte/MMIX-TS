@@ -1,0 +1,14 @@
+{
+  "name": "mmixts",
+  "version": "0.0.1",
+  "description": "Typescript MMIX interpreter",
+  "main": "./app/mmix.ts",
+  "scripts": {
+    "test": "ts-node ./test/mmix.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.35"
+  }
+}
